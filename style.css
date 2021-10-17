@@ -68,6 +68,7 @@
         font-family: 'Roboto', sans-serif;
         font-size: 20px;
         margin-top: 25px;
+        margin-bottom: 30px;
     }
     .wraper .box{
         width: 20%;
@@ -89,3 +90,10 @@
     }
     @media screen and (max-width:728px){.wraper .box{width:100%}}
 
+footer{
+    height: 80px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+}
